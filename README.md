@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NextJS based financial tracker]
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [nivozer.com](nivozer.com) //currently unavailable
 
