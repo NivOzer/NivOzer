@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
-<h3 align="center">A frontend developer from Israel</h3>
+<h3 align="center">A fullstack developer from Israel</h3>
 
 - 🔭 I’m currently working on [NextJS based financial tracker]
 
