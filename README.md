@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
-<h3 align="center">A fullstack developer from Israel</h3>
+<h3 align="center">Junior Unity Developer from Israel</h3>
 
-- 🔭 I’m currently working on [NextJS based financial tracker]
+- 🔭 I’m currently working on [Lava Man an OOP Based 2D Game]
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Netcode for Unity Package for multiplayer**
 
-- 👨‍💻 All of my projects are available at [nivozer.com](nivozer.com) //currently unavailable
+- 👨‍💻 All of my projects are available at [nivozer.com](nivozer.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
